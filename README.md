@@ -1,6 +1,7 @@
 # PizzaHut_Sales_Analysis
 
 See Data Modeling: 
+
 ![See Data Modeling](Pizzahut_schema.png)
 
 🎯 Project Objective : 
